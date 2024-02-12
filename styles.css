@@ -1,0 +1,53 @@
+/* Define default styles for the entire body */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-color: #dadada;
+}
+
+/* Styles for the main container */
+.container {
+    max-width: 800px; 
+    margin: 20px auto; 
+    padding: 0 20px;
+}
+
+/* Styles for headings */
+h1, h2 {
+    margin: 0;
+}
+
+/* Styles for contact information section */
+.contact-info {
+    margin-bottom: 20px;
+}
+
+/* Styles for various sections */
+.highlights, .technical-qualifications, .education, .projects, .experience, .other {
+    margin-bottom: 30px;
+}
+
+/* Styles for section titles */
+.title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+/* Styles for unordered lists */
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+/* Styles for list items */
+ul li {
+    margin-bottom: 5px;
+}
+
+/* Styles for section headings */
+.section-heading {
+    margin-bottom: 10px;
+}
